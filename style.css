@@ -1,0 +1,104 @@
+body{
+    background-image: url('jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg');
+}
+h1{
+    color:navy;
+}
+.rose{
+    color:red;
+}
+hr{
+    border-style:dotted none none;
+    height:0px;
+    border-color: maroon;
+    border-width: 5px;
+    width:5%;
+}
+.lily{
+    color:#3A98B9;
+   
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+font-family: 'Shantell Sans', cursive;
+font-family: 'Tilt Prism', cursive;
+font-family: 'Zeyada', cursive;
+}
+h3{
+    color:firebrick;
+    font-size: 25px;
+}
+h2{
+    color:purple;
+    font-size: 26px;
+}
+.Neeraj{
+    font-weight: 800;
+    color:rgb(16, 128, 50);
+    font-style:oblique ;
+    font-size: large;
+  font-family: 'Shantell Sans',cursive;
+  margin-right: 80px;
+}
+.Karan{
+    font-style: initial;
+    font-size:larger;
+    color:#E80F88;
+    margin-right:80px;
+}
+
+.Jasmin{
+    font-size: large;
+    font-weight: 600;
+    color:darkblue;
+}
+.Pitaji{
+    color:#301E67;
+    font-size: large;
+    font-style: unset;
+   
+}
+.Mom{
+    font-family: 'Pacifico', cursive;
+font-family: 'Shantell Sans', cursive;
+font-family: 'Tilt Prism', cursive;
+font-family: 'Zeyada', cursive;
+font-size: 30px;
+}
+.Hari{
+    font-family: 'Pacifico', cursive;
+font-family: 'Shantell Sans', cursive;
+}
+.btn {
+    background:  #319DA0;
+    background-image: -webkit-linear-gradient(top,  #319DA0, #2DCDDF);
+    background-image: -moz-linear-gradient(top,  #319DA0, #2DCDDF);
+    background-image: -ms-linear-gradient(top,  #319DA0, #2DCDDF);
+    background-image: -o-linear-gradient(top,  #319DA0, #2DCDDF);
+    background-image: linear-gradient(to bottom,  #319DA0, #2DCDDF);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    text-shadow: 4px 4px 4px #BAD7E9;
+    -webkit-box-shadow: 2px 1px 3px #666666;
+    -moz-box-shadow: 2px 1px 3px #666666;
+    box-shadow: 2px 1px 3px #666666;
+    font-family: Georgia;
+    color: #5D3891;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    border: solid #4E31AA 5px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+ 
+
+  
